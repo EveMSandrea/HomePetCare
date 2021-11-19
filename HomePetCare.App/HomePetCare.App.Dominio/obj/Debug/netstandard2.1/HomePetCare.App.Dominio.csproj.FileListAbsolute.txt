@@ -16,3 +16,12 @@ C:\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\netstandard2.1\
 C:\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\netstandard2.1\HomePetCare.App.Dominio.csproj.CoreCompileInputs.cache
 C:\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\netstandard2.1\HomePetCare.App.Dominio.dll
 C:\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\netstandard2.1\HomePetCare.App.Dominio.pdb
+C:\Users\Public\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\bin\Debug\netstandard2.1\HomePetCare.App.Dominio.deps.json
+C:\Users\Public\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\bin\Debug\netstandard2.1\HomePetCare.App.Dominio.dll
+C:\Users\Public\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\bin\Debug\netstandard2.1\HomePetCare.App.Dominio.pdb
+C:\Users\Public\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\netstandard2.1\HomePetCare.App.Dominio.csprojAssemblyReference.cache
+C:\Users\Public\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\netstandard2.1\HomePetCare.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Public\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\netstandard2.1\HomePetCare.App.Dominio.AssemblyInfo.cs
+C:\Users\Public\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\netstandard2.1\HomePetCare.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Public\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\netstandard2.1\HomePetCare.App.Dominio.dll
+C:\Users\Public\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\netstandard2.1\HomePetCare.App.Dominio.pdb
